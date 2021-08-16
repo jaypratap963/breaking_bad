@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="324" viewBox="0 0 112 324">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 20px;
+        font-family: Roboto-Light, Roboto;
+        font-weight: 300;
+      }
+    </style>
+  </defs>
+  <g id="Detail_column" transform="translate(-195 -626)">
+    <text id="Date_of_birth" data-name="Date of birth" class="cls-1" transform="translate(195 647)"><tspan x="0" y="0">Date of birth</tspan></text>
+    <text id="Nickname" class="cls-1" transform="translate(195 769)"><tspan x="0" y="0">Nickname</tspan></text>
+    <text id="Appearance" class="cls-1" transform="translate(195 830)"><tspan x="0" y="0">Appearance</tspan></text>
+    <text id="Occupation" class="cls-1" transform="translate(195 708)"><tspan x="0" y="0">Occupation</tspan></text>
+    <text id="Portrayed_By" data-name="Portrayed By" class="cls-1" transform="translate(195 891)"><tspan x="0" y="0">Portrayed By</tspan></text>
+    <text id="Status" class="cls-1" transform="translate(195 945)"><tspan x="0" y="0">Status</tspan></text>
+  </g>
+</svg>

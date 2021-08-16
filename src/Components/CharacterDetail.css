@@ -1,0 +1,96 @@
+.Loading{
+    color: White;
+    
+}
+.characterCardDetail{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.character-image {
+    height: 350px;
+    
+    width: 310px;
+    margin-left: -1400px;
+    position: absolute;
+    top: 35px;
+    border-radius: 2%;
+  }
+  .banner{
+      width: 100%;
+  }
+
+.heisenberg{
+    filter: blur(8px);
+    width: 100%;
+}
+  .name1 {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 60px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 60px;
+  min-height: 75px;
+  min-width: 390px;
+  white-space: nowrap;
+  top: 0%;
+  margin-top: 323px;
+  margin-left: 500px;
+  position: absolute;
+  
+}
+.some-detail{
+    display: flex;
+    flex-direction: row;
+    margin-top: 17px;
+    align-items: flex-start;
+    min-height: 368px;
+  
+    
+}
+.rectangle-1 {
+    background-color: #358700;
+    height: 326px;
+    width: 18px;
+    margin-left: 100px;
+    margin-top: 20px;
+  }
+
+  .details{
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      
+  }
+  .card-details{
+      color: white;
+      margin-top: 20px;
+      margin-bottom: 17px;
+    font-size: 20px;
+    font-family: 'Roboto';
+  }
+
+  
+  .seasonapp{
+      display: flex;
+      flex-direction: row;
+  }
+  .occBreaking{
+      display: flex;
+      flex-direction: row;
+  }
+
+  .detail_column{
+    margin-left: 48px;
+    margin-top: 20px;
+  }
+  .details{
+      margin-left: 69px;
+  }
+
+  .quotes_card{
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+  }

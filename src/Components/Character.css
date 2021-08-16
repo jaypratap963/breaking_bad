@@ -1,0 +1,120 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+.characterCard {
+    height: 160px;
+    width: 660px;
+ 
+  margin: 10px;
+
+
+  
+  
+    }
+
+    .rectangle-5 {
+      background: linear-gradient(90deg, 
+    #358700 0%, 
+    #0f0f0f 98.23%);
+      border-radius: 10px;
+      height: 100%;
+      left: 0;
+      position: absolute;
+      top: 0;
+      overflow: hidden;
+      width: 100%;
+    }
+
+    .overlap-group {
+      height: 100%;
+      position: relative;
+    }
+
+ 
+
+    .characterimg{
+      height: inherit;
+    
+      
+  left:0px;
+
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+  width: 152px;
+  
+  
+    }
+
+    .characterimg-div{
+      height: 160px;
+    
+      
+  left: 18px;
+
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+  width: 152px;
+  
+  
+    }
+
+    .rectangle-7{
+      height: 100%;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 18px;
+  background-color: white;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+    }
+
+   
+  
+  .name {
+    left: 222px;
+    letter-spacing: 0;
+    line-height: 35px;
+    position: absolute;
+    top: 9px;
+    white-space: nowrap;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+  }
+    .dob{
+      left: 540px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 15px;
+  font-size: 12px;
+  white-space: nowrap;
+  text-decoration: none;
+  color: #9B9B9B;
+    }
+    .text-1 {
+      left: 222px;
+    letter-spacing: 0;
+    line-height: 10px;
+    position: absolute;
+    top: 44px;
+    font-size: 12px;
+    text-decoration: none;
+    color: white;
+    white-space: nowrap;
+    text-align: left;
+    }
+
+    .deceased {
+      left: 540px;
+      letter-spacing: 0;
+      line-height: 20px;
+      position: absolute;
+      top: 115px;
+      font-size: 12px;
+      white-space: nowrap;
+      text-decoration: none;
+      color: #9B9B9B
+    }
